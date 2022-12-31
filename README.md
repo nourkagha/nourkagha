@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm Nour 👋</h1>
 
-<h4 align="center"> A computer engineer and software developer</h4>
+<h3 align="center"> A computer engineer and software developer</h3>
 
 <p align="center">
   <a href="https://github.agha.dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
