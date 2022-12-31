@@ -51,7 +51,7 @@ My operating system and daily driver:
 
 ### 👨‍💻 Code
 
-I mainly use GitHub, but you may find some of my other repositories here:
+I mainly use GitHub, but you may find some of my other repositories here in the future:
 
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/nouragha)
 [![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=codeberg&logoColor=white)](https://codeberg.org/Nour)
