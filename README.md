@@ -18,7 +18,7 @@
 * ☁️ I'm passionate about and enjoy music 🎹, writing 📝, gaming 🎮 and football ⚽.
 * ❤️ I'm a fan of and interested in all things STEM 🤖, fantasy 🧙‍♂️, philosophy 📜 and space 🪐.
 
-### 📘 Languages
+### 📑 Languages
 
 🚀 I'm familiar and experienced with:
 
