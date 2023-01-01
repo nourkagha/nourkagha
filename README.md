@@ -45,7 +45,7 @@ I'm working on projects using these frameworks and tools:
 
 ### ⚙️ Operating System
 
-I use a beautiful distribution by System76 as my daily driver:
+I use an Ubuntu-based distribution by System76 as my daily driver for development, productivity and gaming:
 
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
