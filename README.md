@@ -60,6 +60,6 @@ I mainly use GitHub, but you may find some of my other repositories here in the 
 
 ### 📊 Stats
 
-![Nour Agha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nourkagha&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=74c7ec&title_color=74c7ec)
+![Nour Agha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nourkagha&hide_border=true&show_icons=true&bg_color=00000000&text_color=9399b2&icon_color=04a5e5&title_color=04a5e5)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nourkagha&hide_border=true&layout=compact&langs_count=6&bg_color=1e1e2e&text_color=cdd6f4&title_color=74c7ec)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nourkagha&hide_border=true&layout=compact&langs_count=6&bg_color=00000000&text_color=9399b2&title_color=04a5e5)
