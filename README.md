@@ -60,4 +60,6 @@ I mainly use GitHub, but you may find some of my other repositories here in the 
 
 ### 📊 Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nourkagha&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=74c7ec&title_color=74c7ec#gh-dark-mode-only" alt="Nour Agha's GitHub Stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nourkagha&hide_border=true&show_icons=true&bg_color=eff1f5&text_color=4c4f69&icon_color=04a5e5&title_color=04a5e5#gh-light-mode-only" alt="Nour Agha's GitHub Stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourkagha&hide_border=true&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&title_color=74c7ec#gh-dark-mode-only" alt="Top Languages"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nourkagha&hide_border=true&layout=compact&bg_color=eff1f5&text_color=4c4f69&title_color=04a5e5#gh-light-mode-only" alt="Top Languages">
+![Nour Agha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nourkagha&hide_border=true&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=74c7ec&title_color=74c7ec)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nourkagha&hide_border=true&layout=compact&langs_count=6&bg_color=1e1e2e&text_color=cdd6f4&title_color=74c7ec)
