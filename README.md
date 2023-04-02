@@ -34,7 +34,7 @@
 
 ### 🛠️ Frameworks, Tools & Editors
 
-I'm working on and hosting projects using these frameworks and tools:
+I'm working on, building and hosting projects using these frameworks and tools:
 
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)](https://alacritty.org)
