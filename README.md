@@ -13,13 +13,10 @@
 
 ### 👤 About
 
-💻 I'm a free and open source software enthusiast
-
-🔒 I'm a privacy, security, digital freedom and humane technology advocate
-
-☁️ I'm passionate about and enjoy music 🎹, writing 📝, gaming 🎮 and football ⚽
-
-❤️ I'm a fan of and interested in all things STEM 🤖, fantasy 🧙‍♂️, philosophy 📜 and space 🪐
+* 💻 I'm a free and open source software enthusiast
+* 🔒 I'm a privacy, security, digital freedom and humane technology advocate
+* ☁️ I'm passionate about and enjoy music 🎹, writing 📝, gaming 🎮 and football ⚽
+* ❤️ I'm a fan of and interested in all things STEM 🤖, fantasy 🧙‍♂️, philosophy 📜 and space 🪐
 
 ### 📑 Languages
 
