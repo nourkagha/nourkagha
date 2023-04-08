@@ -55,7 +55,7 @@ I'm working on, building and hosting projects using these frameworks and tools:
 
 ### ⚙️ Operating System
 
-I use [Pop!_OS](https://github.com/pop-os), an Ubuntu-based distribution by [System76](https://github.com/system76), as my daily driver for development, productivity and gaming:
+I use [Pop!_OS](https://github.com/pop-os), an Ubuntu-based distribution by [System76](https://github.com/system76) as my daily driver for development, productivity and gaming:
 
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
