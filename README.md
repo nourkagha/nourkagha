@@ -3,6 +3,7 @@
 <h3 align="center"> A computer engineer and software developer</h3>
 
 <p align="center">
+  <a href="mailto:nour@agha.dev"><img src="https://img.shields.io/badge/Proton%20Mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail"></a>
   <a href="https://signal.agha.dev"><img src="https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal"></a>
   <a href="https://matrix.agha.dev"><img src="https://img.shields.io/badge/Matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" alt="Matrix"></a>
   <a href="https://github.agha.dev"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
