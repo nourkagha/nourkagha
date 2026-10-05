@@ -59,7 +59,7 @@ I use [Pop!_OS](https://github.com/pop-os), an Ubuntu-based distribution by [Sys
 [![Pop!_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)](https://pop.system76.com)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://kernel.org)
 
-### 👨‍💻 Code
+### 👨🏻‍💻 Code
 
 I mainly use GitHub, but you may find some of my repositories and projects here in the future:
 
